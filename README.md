@@ -117,16 +117,59 @@ All KPIs and calculated columns used in this project were **derived, verified, a
 ## 📸 **Screenshots**
 
 **Excel Dashboard**
+---
 ![image](https://github.com/user-attachments/assets/57c20e6f-4332-4db7-a276-fcf66b8f067f)
 
 ---
 **Tableau Dashboard**
+---
 ![image](https://github.com/user-attachments/assets/1b7c14cd-695e-4cd8-9933-819ba6a46af2)
 
 ---
 **Power BI Dashboard**
+---
 ![image](https://github.com/user-attachments/assets/d30833b8-9153-4a41-8f03-b0ca9aab007d)
 
 ---
 **SQL Screenshots**
+---
 
+
+### **1. SQL KPI 1**
+---
+![SQL KPI 1](SQL/SQL%20KPI1.png)
+
+---
+### **2. SQL KPI 2**
+---
+![SQL KPI 2.1](SQL/SQL%20KPI2.1.png)
+![SQL KPI 2.2](SQL/SQL%20KPI2.2.png)
+![SQL KPI 2.3](SQL/SQL%20KPI2.3.png)
+
+---
+### **3. SQL KPI 3**
+---
+![SQL KPI 3](SQL/SQL%20KPI3.png)
+
+---
+
+### **4. SQL KPI 4**
+---
+![SQL KPI 4](SQL/SQL%20KPI4.png)
+
+---
+
+### **5. SQL KPI 5**
+---
+![SQL KPI 5](SQL/SQL%20KPI5.png)
+
+---
+
+### **6. SQL KPI 6**
+---
+![SQL KPI 6](SQL/SQL%20KPI6.png)
+
+---
+### **7. SQL KPI 7**
+---
+![SQL KPI 7](SQL/SQL%20KPI7.png)
